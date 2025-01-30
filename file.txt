@@ -1,2 +1,3 @@
 initial commit line
-After much concideration I am not sure if this file is needed
+After much consideration I am not sure if this file is needed
+I apparently cannot spell.
